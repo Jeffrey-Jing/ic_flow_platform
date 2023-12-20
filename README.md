@@ -1,7 +1,6 @@
 # IC Flow Platform V1.2 (2023.12.31)
 
 ## Update history
-***
 |Version |Date            | Update content      |
 | :-----------| :-----------| :-----------------  |
 | V1.2   |(2023.12.31)    | Support more complex logic control and centrally manage user settings |
@@ -11,7 +10,6 @@
 
 
 ## Introduction
-***
 
 ### 0. What is IFP?
 
@@ -61,5 +59,4 @@ Execute below command under install directory.
 <img src="./data/pictures/readme/IFP_main_tab.jpeg" width="80%">
   
   
-***
 More details please see ["docs/IFP_user_manual.pdf"](./docs/IFP_user_manual.pdf)
