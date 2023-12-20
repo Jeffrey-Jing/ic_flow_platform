@@ -46,7 +46,7 @@ Execute below command under install directory.
   - Step 2 : Execute $IFP_INSTALL_PATH/bin/ifp to run IFP with GUI mode
   - Step 3 : Open menubar `Setup > Setting` to choose default setting and update personalizations
 
-<img src="./data/pictures/readme/IFP_setting.png" width="20%">
+<img src="./data/pictures/readme/IFP_setting.png" width="80%">
   
   - Step 4 : Open menubar `Setup > Set Depedency` to define task actuating logic
   
